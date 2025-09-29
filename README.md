@@ -3,7 +3,7 @@ Projeto da disciplina CIC-1060 Arquitetura e Desenho de Software.
 <br><br>
 
 ## Integrantes do grupo
-- Adriano Machedo das Mercez Filho
+- Adriano Macedo das Mercez Filho
 - Bruna Gouveia de Morais
 - Carlos Eduardo Fernandes Araújo
 - Gabriel Bandeira Gonzaga
